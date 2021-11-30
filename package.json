@@ -1,0 +1,19 @@
+{
+  "name": "bestpricemd",
+  "version": "1.0.0",
+  "description": "price compare for (tech) products in Moldova",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bestpricemd"
+  },
+  "author": "prenaissance",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "*"
+  }
+}
